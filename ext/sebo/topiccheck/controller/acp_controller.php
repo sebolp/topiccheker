@@ -11,8 +11,6 @@
 
 namespace sebo\topiccheck\controller;
 
-use phpbb\console\command\user\add;
-
 /**
  * TopicCheck ACP controller.
  */
